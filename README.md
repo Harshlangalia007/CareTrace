@@ -10,8 +10,8 @@
 |---|---|
 | **Team Name** | CareTrace |
 | **Track** | AI |
-| **Team Lead** | HarshLangalia007 — harshlanagalia10@gmail.com |
-| **Members** | Hetav, Name 2, Name 3 |
+| **Team Lead** | Harsh Langalia — harshlanagalia10@gmail.com |
+| **Members** | Nilabh Oza, Sahil Khankhal, Hetav Shah, Rishabh Jain, Yug Rajpurohit |
 
 ---
 
